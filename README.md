@@ -1,4 +1,4 @@
-# Hey Maher! 👋
+# Hey saya Maher! 👋
 
 I'm **Thijs (he/they)** – I'm a fullstack developer, designer, moderator, and high school student.  
 I'm interested in development, moderation, and building thriving online communities.  
